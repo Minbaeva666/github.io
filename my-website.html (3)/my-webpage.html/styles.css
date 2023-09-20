@@ -1,0 +1,26 @@
+html {
+    background-color: #131414;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0f0f10;
+    
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #e0add5;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 400px;
+}
+
